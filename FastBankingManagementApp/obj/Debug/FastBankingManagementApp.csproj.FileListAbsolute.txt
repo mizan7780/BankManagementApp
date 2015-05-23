@@ -1,0 +1,9 @@
+D:\Exam-9\FastBankingManagementApp\FastBankingManagementApp\bin\Debug\FastBankingManagementApp.exe.config
+D:\Exam-9\FastBankingManagementApp\FastBankingManagementApp\bin\Debug\FastBankingManagementApp.exe
+D:\Exam-9\FastBankingManagementApp\FastBankingManagementApp\bin\Debug\FastBankingManagementApp.pdb
+D:\Exam-9\FastBankingManagementApp\FastBankingManagementApp\obj\Debug\FastBankingManagementApp.csprojResolveAssemblyReference.cache
+D:\Exam-9\FastBankingManagementApp\FastBankingManagementApp\obj\Debug\FastBankingManagementApp.Form1.resources
+D:\Exam-9\FastBankingManagementApp\FastBankingManagementApp\obj\Debug\FastBankingManagementApp.Properties.Resources.resources
+D:\Exam-9\FastBankingManagementApp\FastBankingManagementApp\obj\Debug\FastBankingManagementApp.csproj.GenerateResource.Cache
+D:\Exam-9\FastBankingManagementApp\FastBankingManagementApp\obj\Debug\FastBankingManagementApp.exe
+D:\Exam-9\FastBankingManagementApp\FastBankingManagementApp\obj\Debug\FastBankingManagementApp.pdb
